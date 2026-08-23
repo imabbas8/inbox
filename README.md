@@ -14,10 +14,7 @@ Top navigation, sidebar, conversation list, message thread and details panel all
 
 ![Dashboard](screenshots/dashboard.jpg)
 
-### Skeleton state
-Thread and details panel render grey pulsing skeletons while their API calls are in flight.
 
-![Skeleton state](screenshots/skeleton-state.jpg)
 
 ### Responsive (mobile)
 The chat list and thread swap on small screens, with a back button in the thread header.
